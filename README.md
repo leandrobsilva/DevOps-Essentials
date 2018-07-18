@@ -1,7 +1,7 @@
 # Aplicação: Trilha DevOps da 4Linux e ITCerts
 
 <!-- Altere a Flag abaixo com sua URL do Travis -->
-[![Build Status](https://travis-ci.org/gabyldias/simple-unittest.svg?branch=master)](https://travis-ci.org/gabyldias/simple-unittest)
+[![Build Status](https://travis-ci.org/leandrobsilva/DevOps-Essentials.svg?branch=master)](https://travis-ci.org/leandrobsilva/DevOps-Essentials)
 
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 

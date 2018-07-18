@@ -2,6 +2,10 @@
 
 <!-- Altere a Flag abaixo com sua URL do Travis -->
 [![Build Status](https://travis-ci.org/leandrobsilva/DevOps-Essentials.svg?branch=master)](https://travis-ci.org/leandrobsilva/DevOps-Essentials)
+<<<<<<< HEAD
+=======
+
+>>>>>>> a4bfb2246295aeb8629442962e79f9ae43f91659
 ## Aplicação criada para exemplificar o Ciclo de uma PipeLine DevOps
 
 Para maiores informações
